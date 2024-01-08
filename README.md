@@ -1,5 +1,6 @@
 # Praticando-POO-em-C-sharp
-www.dio.me
+
+Praticando orientação a objetos em C# com desafios de código da [DIO](https://www.dio.me).
 
 ## Desafios de código
 
